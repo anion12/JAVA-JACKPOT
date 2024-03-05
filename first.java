@@ -1,3 +1,8 @@
+/*this includes the basic syntax and the primitive data types in java.we will discuss the indepth meaning of each syntax later while
+    we progress*/
+
+
+
 class hello
 {
     public static void main(String a[] ){
