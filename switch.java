@@ -1,4 +1,8 @@
- class easy {
+/*SWITCH IS USED IN THE CASE WHERE MULTIPLE ELSE IF ARE USED.PLEASE NOTE THAT 
+THIS IS OLDER VERSION OF USING SWITCH IN JAVA*/
+
+
+class easy {
     public static void main(String a[])
     {
         int x = 5;
