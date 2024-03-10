@@ -1,3 +1,6 @@
+/*--  this includes three loops for,while and do-while loops in java 
+there is also an example below in which by the help of loops we created the calender of week*/
+
 public class loops {
     public static void main(String a[])
     {
