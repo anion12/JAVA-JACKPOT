@@ -1,3 +1,7 @@
+/*IN THIS CODE CLASSES AND METHODS AND OBJECT CREATION IS GIVEN THIS GIVES 
+US A BRIEF UNDERSTANDING ABOUT OBJECT ORIENTED PROGRAMMING LANGUAGE*/
+
+
 class calculator{
     
     int num = 5;
@@ -23,7 +27,7 @@ public class oop1 {
       calc.add(1,2,3);
       System.out.println(result);
       /*StringBuffer sb = new StringBuffer();
-      System.out.println(sb);*/
+      System.out.println(sb);*/ 
      
     }
 }
