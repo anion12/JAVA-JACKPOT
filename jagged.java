@@ -1,3 +1,5 @@
+/*jagged array means the internal size of each array is not fixed it is defined seperately for each internal array*/
+
 public class jagged {
     public static void main(String[] args) {
         int nums[][] = new int [3][];//jagged
