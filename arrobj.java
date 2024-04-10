@@ -1,3 +1,5 @@
+//ARRAY OF OBJECTS CREATION IN JAVA
+
 class student{
     int roll;
     String name;
@@ -6,22 +8,22 @@ class student{
 public class arrobj {
 
     public static void main(String[] args) {
-        student s1 = new student();
+        student s1 = new student();//object 1
         s1.roll = 56;
         s1.name = "aneesh";
         s1.marks = 100;
 
-         student s2 = new student();
+         student s2 = new student();//object 2
         s2.roll = 56;
         s2.name = "aneesh";
         s2.marks = 100;
 
-         student s3 = new student();
+         student s3 = new student();//object 3
         s3.roll = 56;
         s3.name = "aneesh";
         s3.marks = 100;
 
-        student students[] = new student[3];
+        student students[] = new student[3];//creating array of student objects 
         students[0] = s1;
         students[1] = s2;
         students[2] = s3;
