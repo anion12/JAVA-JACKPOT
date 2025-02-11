@@ -4,7 +4,6 @@ public static void main(String s[])
     {
         int a = 10;
       
-
       {
           int a = 50;//this is not possible as 'a' is already intialised in the main method
           a=50;//this is possible as we are using same reference variable to reassign the value of a.
