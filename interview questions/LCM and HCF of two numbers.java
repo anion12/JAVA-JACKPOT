@@ -9,7 +9,7 @@ class Main {
        int x = sc.nextInt();
        int y = sc.nextInt();
        
-       int min = Math.max(x,y);
+       int min = Math.min(x,y);
        int c = 2;
        int hc = 1;
        
